@@ -1,0 +1,7 @@
+#include "resource.h"
+logo RCDATA "res/logo.bin"
+skin RCDATA "res/skin.bin"
+btn1 RCDATA "res/btn1.bin"
+btn2 RCDATA "res/btn2.bin"
+musi RCDATA "res/mus.xm"
+icon ICON "res/icon.ico"
